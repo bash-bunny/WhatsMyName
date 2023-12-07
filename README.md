@@ -2,7 +2,7 @@
 
 Python wrapper for the WhatsMyName repo
 
-Check their awesome work in their repo [Github Repo WebBreacher WhatsMyName](https://github.com/WebBreacher/WhatsMyName/tree/main)
+Check their awesome work here: [Github Repo WebBreacher WhatsMyName](https://github.com/WebBreacher/WhatsMyName/tree/main)
 
 # Requirements
 
