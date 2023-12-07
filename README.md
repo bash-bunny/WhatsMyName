@@ -24,7 +24,7 @@ git clone https://github.com/DeadS3c/WhatsMyName.git
 cd WhatsMyName
 python -m venv venv
 . venv/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
