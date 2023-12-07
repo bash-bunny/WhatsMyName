@@ -2,12 +2,20 @@
 
 Python wrapper for the WhatsMyName repo
 
+Check their awesome work in their repo [Github Repo WebBreacher WhatsMyName](https://github.com/WebBreacher/WhatsMyName/tree/main)
+
 # Requirements
+
+The program makes use of the following libraries
 
 ```txt
 json
 requests
 ```
+
+And also make use of the `wmn-data.json` file from the [WebBreacher Github Repo](https://github.com/WebBreacher/WhatsMyName/blob/main/wmn-data.json)
+
+*Note: It's recommended to update the file `wmn-data.json` often*
 
 ## Installation
 
