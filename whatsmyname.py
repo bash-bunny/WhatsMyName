@@ -6,10 +6,14 @@ import requests
 import threading
 
 def check_url(url, e_code, e_string):
+	# Try every url
 	try:
+		# Make request to the url with a timeout of 30 seconds
 		r = requests.get(url, timeout=30)
 		if(r.status_code == e_code):
 			if(e_string in r.text):
+				# Check the response code and the text and if it
+				# works print the url
 				print(url)
 	except:
 		pass
